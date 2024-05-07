@@ -8,11 +8,8 @@ class App extends Component {
   render() {
     return (
       <div className='container'>
-          <h1>Event Form Demo</h1>
-          <LTT_EventForm1 />
-          <LTT_EventForm2 />
-          <LTT_EventForm3 />
-          <LTT_EventForm4 name="Le Tuan Tinh" />
+          <h1>Event Form - Render Data</h1>
+          
       </div>
     );
   }
